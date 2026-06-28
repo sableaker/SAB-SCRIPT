@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sableaker/SAB-SCRIPT/refs/heads/main/xenhubV5.lua"))()
